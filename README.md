@@ -6,7 +6,7 @@
 ![Version](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-**Professional Android Security Analysis Framework**
+**Professional Android Security Analysis**
 
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen)](https://www.android.com/)
 [![Bash](https://img.shields.io/badge/Bash-5.0+-orange)](https://www.gnu.org/software/bash/)
