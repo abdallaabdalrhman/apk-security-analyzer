@@ -732,7 +732,7 @@ generate_json_report() {
 {
   "scan_info": {
     "tool": "APK Security Analyzer",
-    "version": "7.0",
+    "version": "1.0",
     "author": "0x2nac0nda",
     "scan_date": "$(date '+%Y-%m-%d %H:%M:%S')",
     "apk_name": "$APK_NAME",
