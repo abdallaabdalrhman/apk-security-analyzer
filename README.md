@@ -23,7 +23,7 @@ Advanced command-line tool for comprehensive security analysis of Android APK fi
 
 ## 📋 Overview
 
-APK Security Analyzer is a professional-grade static analysis tool designed for Android application security assessments. It performs comprehensive security scanning of APK files based on **OWASP MASVS guidelines** without requiring any server-side processing.
+APK Security Analyzer is a professional-grade static analysis tool designed for Android application security assessments. It performs comprehensive security scanning of APK files based on **OWASP MASVS guidelines**.
 
 ### 🔒 Key Highlights
 
