@@ -49,7 +49,6 @@ APK Security Analyzer is a professional-grade static analysis tool designed for 
 | 💾 **Storage Security** | Analyze data storage mechanisms and risks |
 | 🌍 **WebView Security** | Identify JavaScript bridge and WebView vulnerabilities |
 | 📊 **JSON Reports** | Export detailed security assessment reports |
-| 📍 **Path Tracking** | Exact file locations for each vulnerability |
 
 ---
 
@@ -126,7 +125,7 @@ chmod +x apk-analyzer.sh
 ║                                                                           ║
 ║                       Author: 0x2nac0nda                                  ║
 ║                                                                           ║
-║              •  🎯 OWASP/CWE/MASVS  •  📄 JSON Output                      ║
+║              •  🎯 OWASP/MASVS  •  📄 JSON Output                          ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 
 System: linux | Output: JSON
