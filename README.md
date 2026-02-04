@@ -40,7 +40,7 @@ APK Security Analyzer is a professional-grade static analysis tool designed for 
 
 | Feature | Description |
 |---------|-------------|
-| 🔍 **Static Analysis** | 80+ security checks based on OWASP MASVS guidelines |
+| 🔍 **Static Analysis** | security checks based on OWASP MASVS guidelines |
 | 🗂️ **File Explorer** | Automatic APK decompilation and structure analysis |
 | 🔐 **Secret Detection** | Find hardcoded API keys, tokens, and credentials |
 | 📱 **Manifest Audit** | Review app permissions and component security |
