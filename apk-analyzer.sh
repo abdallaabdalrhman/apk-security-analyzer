@@ -59,12 +59,12 @@ print_banner() {
 ║       ██║  ██║██║     ██║  ██╗    ███████║███████╗╚██████╗                ║
 ║       ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝    ╚══════╝╚══════╝ ╚═════╝                ║
 ║                                                                           ║
-║          APK SECURITY ANALYZER v7.0 - JSON EDITION                        ║
+║          APK SECURITY ANALYZER v1.0 - JSON EDITION                        ║
 ║                   Android Security Analysis                               ║
 ║                                                                           ║
 ║                       Author: 0x2nac0nda                                  ║
 ║                                                                           ║
-║   📊 Rules  •  🎯 OWASP/CWE/MASVS  •  📄 JSON Output                     ║
+║             •  🎯 OWASP/MASVS  •  📄 JSON Output                          ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 EOF
