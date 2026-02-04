@@ -28,7 +28,7 @@ APK Security Analyzer is a professional-grade static analysis tool designed for 
 ### 🔒 Key Highlights
 
 - ✅ **Security Rules** - Comprehensive coverage across all security domains
-- ✅ **CWE/OWASP/MASVS Mappings** - Industry-standard vulnerability classifications
+- ✅ **OWASP/MASVS Mappings** - Industry-standard vulnerability classifications
 - ✅ **JSON Output** - Structured reports with detailed vulnerability information
 - ✅ **File Path Detection** - Exact locations of vulnerabilities in source code
 - ✅ **Evidence Extraction** - Code snippets and proof of vulnerabilities
@@ -126,7 +126,7 @@ chmod +x apk-analyzer.sh
 ║                                                                           ║
 ║                       Author: 0x2nac0nda                                  ║
 ║                                                                           ║
-║   📊 80+ Rules  •  🎯 OWASP/CWE/MASVS  •  📄 JSON Output                  ║
+║              •  🎯 OWASP/CWE/MASVS  •  📄 JSON Output                      ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 
 System: linux | Output: JSON
@@ -160,11 +160,10 @@ File size: 45K
 {
   "scan_info": {
     "tool": "APK Security Analyzer",
-    "version": "7.0",
+    "version": "1.0",
     "author": "0x2nac0nda",
     "scan_date": "2024-02-04 15:30:45",
     "apk_name": "example-app.apk",
-    "risk_level": "CRITICAL"
   },
   "summary": {
     "total_findings": 24,
@@ -182,7 +181,6 @@ File size: 45K
   "vulnerabilities": [
     {
       "id": 1,
-      "severity": "CRITICAL",
       "title": "Weak Encryption: DES/3DES",
       "description": "DES and 3DES are cryptographically broken",
       "cwe": "CWE-327",
@@ -219,7 +217,6 @@ File size: 45K
 
 ```json
 {
-  "severity": "CRITICAL",
   "title": "Weak Encryption: DES/3DES",
   "cwe": "CWE-327",
   "owasp": "M5",
@@ -234,7 +231,6 @@ File size: 45K
 
 ```json
 {
-  "severity": "HIGH",
   "title": "Google API Keys (4 unique)",
   "cwe": "CWE-798",
   "owasp": "M9",
