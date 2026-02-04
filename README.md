@@ -196,21 +196,6 @@ File size: 45K
 }
 ```
 
-### Vulnerability Information
-
-Each vulnerability includes:
-
-- **ID** - Unique identifier
-- **Severity** - CRITICAL, HIGH, MEDIUM, LOW, INFO, SECURE
-- **Title** - Vulnerability name
-- **Description** - Detailed explanation
-- **CWE** - Common Weakness Enumeration
-- **OWASP** - OWASP Mobile Top 10 mapping
-- **MASVS** - Mobile Application Security Verification Standard
-- **Remediation** - Fix recommendations
-- **File Path** - Exact location in source code
-- **Evidence** - Code snippets or proof
-
 ---
 
 ## 🎯 Use Cases
