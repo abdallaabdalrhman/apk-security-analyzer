@@ -284,6 +284,6 @@ This tool is intended for **authorized security testing and educational purposes
 
 **⭐ If you find this tool useful, please consider giving it a star! ⭐**
 
-Made with ❤️ by [0x2nac0nda](https://github.com/abdallaabdalrhman)
+Made with ❤️ by [0x2nac0nda](https://www.linkedin.com/in/0x2nac0nda/)
 
 </div>
