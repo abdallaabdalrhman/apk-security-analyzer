@@ -125,7 +125,7 @@ chmod +x apk-analyzer.sh
 ║                                                                           ║
 ║                       Author: 0x2nac0nda                                  ║
 ║                                                                           ║
-║              •  🎯 OWASP/MASVS  •  📄 JSON Output                          ║
+║              •  🎯 OWASP/MASVS  •  📄 JSON Output                         ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 
 System: linux | Output: JSON
