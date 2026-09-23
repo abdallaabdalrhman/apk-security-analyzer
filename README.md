@@ -267,18 +267,3 @@ Automatically extracts API endpoints and URLs:
 ```
 API Endpoints: 15 | URLs: 32
 ```
-
-## ⚠️ Disclaimer
-
-This tool is intended for **authorized security testing and educational purposes only**. Users are responsible for ensuring they have proper authorization before analyzing any application. The authors are not responsible for any misuse of this tool.
-
-**Note:** This is an automated pattern-matching scanner, **NOT** a comprehensive security audit. Results are indicative only and require manual verification by a qualified security professional.
-
-
-<div align="center">
-
-**⭐ If you find this tool useful, please consider giving it a star! ⭐**
-
-Made with ❤️ by [0x2nac0nda](https://www.linkedin.com/in/0x2nac0nda/)
-
-</div>
